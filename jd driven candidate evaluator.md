@@ -1,4 +1,4 @@
-# Workflow 2: Serial Agent
+# Workflow: Serial Agent
 ## Sequential Execution Pattern for Task Chaining
 
 **Version:** 1.0 | **Last Updated:** October 2026 | **Status:** Production-Ready
